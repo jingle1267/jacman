@@ -36,7 +36,7 @@ author_img: imgs/myself.jpg ## size:220px*220px.display author avatar picture.if
 banner_img: #imgs/header_bg.jpg#img/banner.jpg ## size:1920px*200px+. Banner Picture
 ### Theme Color 
 theme_color:
-    theme: '#2ca6cb'    ##the defaut theme color is blue
+    theme: '#2ca6cb'    ##the defaut theme color is blue 
 
 # 代码高亮主题
 # available: default | night
@@ -56,8 +56,8 @@ creative_commons: none
 
 #### Author information
 author:
-  intro_line1:  "Hello, I'm Jin in JingDong."    ## your introduction on the bottom of the page
-  intro_line2:  "This is my blog, believe it or not."  ## the 2nd line
+  intro_line1:  "生活不止眼前的苟且"    ## your introduction on the bottom of the page
+  intro_line2:  "还有诗和远方的田野"  ## the 2nd line
   weibo: jingle1267     ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   weibo_verifier: fe26ef74    ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
   tsina: 2309512484     ## e.g. 2176287895  Your weibo ID,It will be used in share button.
