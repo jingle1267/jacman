@@ -107,7 +107,7 @@ baidu_tongji:
   enable: true
   sitecode: 9223f49a80da70c70261ac4e2f74af9a ## e.g. e6d1f421bbc9962127a50488f9ed37d1 your baidu tongji site code
 cnzz_tongji:
-  enable: false
+  enable: true
   siteid:    ## e.g. 1253575964 your cnzz tongji site id
 
 #### Miscellaneous
