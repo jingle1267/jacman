@@ -25,7 +25,8 @@
     <meta name="author" content="<%= config.author %>">
     <% } %>
 
-    <% if (page.keywords){ %><meta name="keywords" content="<%= page.keywords %>"><% } %>
+    <% if (page.keywords){ %><meta name="keywords" content="<%= page.keywords %>, <%= config.title %>, ihongqiqu, ihongqiqu.com, 我爱红旗渠, 红旗渠儿女, 红旗渠, hongqiqu"><% } %>
+    <% if (!page.keywords){ %><meta name="keywords" content="<%= config.title %>, ihongqiqu, ihongqiqu.com, 我爱红旗渠, 红旗渠儿女, 红旗渠, hongqiqu"><% } %>
     <%- open_graph({twitter_id: theme.author.twitter, google_plus: theme.author.google_plus}) %>
 
     <% if (theme.rss){ %>
