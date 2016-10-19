@@ -15,10 +15,12 @@ widgets:
 - github-card
 - category
 - tag
+- archive
 #- links
 #- douban
-#- rss
-- weibo
+- tagcloud
+- rss
+#- weibo
   ## provide eight widgets:github-card,category,tag,rss,archive,tagcloud,links,weibo
 
 
