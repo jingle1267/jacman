@@ -60,9 +60,9 @@ creative_commons: none
 author:
   intro_line1:  "生活不止眼前的苟且"    ## your introduction on the bottom of the page
   intro_line2:  "还有诗和远方的田野"  ## the 2nd line
-  weibo: jingle1267     ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
-  weibo_verifier: fe26ef74    ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
-  tsina: 2309512484     ## e.g. 2176287895  Your weibo ID,It will be used in share button.
+#  weibo: jingle1267     ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
+#  weibo_verifier: fe26ef74    ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
+#  tsina: 2309512484     ## e.g. 2176287895  Your weibo ID,It will be used in share button.
   douban:     ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
   zhihu:      ## e.g. jark  for http://www.zhihu.com/people/jark
   email: jingle1267@163.com     ## e.g. imjark@gmail.com
@@ -128,7 +128,7 @@ google_cse:
 ## title: search
 ## ---
 baidu_search:     ## http://zn.baidu.com/
-  enable: true
+  enable: false
   id: 6862289814022637585  ## e.g. "783281470518440642"  for your baidu search id
   site: http://zhannei.baidu.com/cse/search  ## your can change to your site instead of the default site
 
