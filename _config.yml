@@ -16,10 +16,10 @@ widgets:
 - category
 - tag
 - archive
-#- links
-#- douban
 - tagcloud
+- links
 - rss
+#- douban
 #- weibo
   ## provide eight widgets:github-card,category,tag,rss,archive,tagcloud,links,weibo
 
@@ -83,7 +83,7 @@ toc:
 
 #### Links
 links:
-  码农圈: http://ihongqiqu.com, 爱红旗渠
+  博客园: http://www.cnblogs.com/jingle1267/,博客园爱红旗渠
 
 
 
