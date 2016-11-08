@@ -14,9 +14,10 @@ menu:
 widgets: 
 - github-card
 - category
-- tag
-- archive
 - tagcloud
+- archive
+#- tag
+- hot-articles # 热评文章
 - links
 - rss
 #- douban
@@ -86,6 +87,7 @@ links:
   博客园: http://www.cnblogs.com/jingle1267/,博客园爱红旗渠
   CSDN博客: http://blog.csdn.net/m925986445,CSDN爱红旗渠
   IHONQIQU: http://blog.csdn.net/u010042046,CSDN爱红旗渠
+  Hostodo中文网: http://www.hostodo.cn/,年付低至10美元洛杉矶VPS主机
 
 
 
