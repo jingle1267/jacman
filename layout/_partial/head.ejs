@@ -26,7 +26,11 @@
     <% } %>
 
     <% if (page.keywords){ %><meta name="keywords" content="<%= page.keywords %>, <%= config.keywords %>"><% } %>
-    <% if (!page.keywords){ %><meta name="keywords" content="<%= config.keywords %>"><% } %>
+
+    <% if (!page.keywords){ %><meta name="keywords" content="<%= config.keywords %>">
+      <meta name="google-site-verification" content="9lcaJdZKsghYWk19tQSzSIdlKxsT0jta8L0Qnc2WLSM" />
+    <% } %>
+
     <%- open_graph({twitter_id: theme.author.twitter, google_plus: theme.author.google_plus}) %>
 
     <% if (theme.rss){ %>
