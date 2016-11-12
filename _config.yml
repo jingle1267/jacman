@@ -36,7 +36,7 @@ imglogo:
 favicon: favicon.ico   ## size:32px*32px,`.ico` is recommended,please put image into the theme folder `/jacman/source/img`.     
 apple_icon: imgs/myself.jpg ## size:114px*114px,please put image into the theme folder `/jacman/source/img`.
 author_img: imgs/myself.jpg ## size:220px*220px.display author avatar picture.if don't want to display,please don't set this.
-banner_img: #imgs/header_bg.jpg#img/banner.jpg ## size:1920px*200px+. Banner Picture
+banner_img: #ihongqiqu.jpg #imgs/header_bg.jpg#img/banner.jpg ## size:1920px*200px+. Banner Picture
 ### Theme Color 
 theme_color:
     theme: '#2ca6cb'    ##the defaut theme color is blue 
@@ -86,8 +86,8 @@ toc:
 links:
   博客园: http://www.cnblogs.com/jingle1267/,博客园爱红旗渠
   CSDN博客: http://blog.csdn.net/m925986445,CSDN爱红旗渠
-  IHONQIQU: http://blog.csdn.net/u010042046,CSDN爱红旗渠
-  Hostodo中文网: http://www.hostodo.cn/,年付低至10美元洛杉矶VPS主机
+  # IHONQIQU: http://blog.csdn.net/u010042046,CSDN爱红旗渠
+  Hostodo: http://www.hostodo.cn/,年付低至10美元洛杉矶VPS主机
 
 
 
